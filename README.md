@@ -1,36 +1,11 @@
-# Hello, I'm Ahmed Matter! 👋
+<h1 align="center">Hi 👋, I'm Ahmed Matter</h1>
+<h3 align="center">A frontend developer</h3>
 
-![Banner or Header Image](URL_TO_AN_IMAGE)  <!-- You can put a banner image here -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@matter1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@matter1907" height="30" width="40" /></a>
+<a href="https://www.behance.net/matter36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="matter36" height="30" width="40" /></a>
+</p>
 
-I'm a passionate developer who loves creating intuitive, dynamic web applications. With expertise in HTML, CSS, and JavaScript, I'm always looking to learn more and take on new challenges.
-
-🌐 **Check out my portfolio:** [Ahmed Matter Portfolio](URL_TO_YOUR_PORTFOLIO)
-
-## 🔧 Technologies & Tools
-
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Django, Node.js
-- **Databases:** SQL, MongoDB
-- **Tools:** Git, GitHub, VSCode
-
-## 🌱 Current Learning Goals
-
-- Dive deeper into the world of React and explore Next.js.
-- Explore cloud computing platforms, especially AWS.
-- Learn about mobile application development with React Native.
-
-## 📈 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-_Note: You can use the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) tool to generate the stats._
-
-## 📫 Get in Touch
-
-- LinkedIn: [Ahmed Matter](YOUR_LINKEDIN_URL)
-- Email: your.email@example.com
-- Portfolio: [ahmedmatter.com](URL_TO_YOUR_PORTFOLIO)
-
-### ⚡ Fun Fact
-
-I love hiking and have a goal to hike in at least 5 different countries by 2025!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
