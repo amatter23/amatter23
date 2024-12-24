@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Matter</h1>
-<h3 align="center">A passionate frontend developer from Egypt India</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on [ToDo website](https://github.com/amatter23/todo)
 
