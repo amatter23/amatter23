@@ -1,20 +1,30 @@
-# Hi there, I'm Ahmed Matter! 👋
-I'm a passionate **Frontend Developer** specializing in **React.js** and **TypeScript**, on a journey to mastering **Full-Stack Development**.
+<h1 align="center"> Hey 👋, I'm Ahmed Matter </h1>
 
-- 🔭 I’m currently working on [Taskora](https://github.com/amatter23/Taskora)
-- 🌱 I’m currently learning **Next js**
+<div align="center">
+        <img src='https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif' alt='Cat & Mouse'/>
+</div>
 
-## 🔧 Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#) [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+<br />
 
-## 📫 Connect with Me
+<p>
+  Junior Software Engineer with a passion for crafting beautiful and responsive user experiences 🚀<br/>
+  Strong engineering professional with a Bachelor's degree in <strong>Computer Science</strong> from October 6 University 🎓<br/>
+  Eager to build modern web applications using React, TypeScript, and cutting-edge frontend technologies 💻
+</p>
 
-Feel free to reach out through any of the platforms below:
+- 🌱 Currently learning and focusing on **frontend development**
+- 📫 How to reach me? **matterahmed36@gmail.com**
+- 📄 View my experiences: <a href="https://drive.google.com/file/d/1SWWwJdSQwVrgIf5l1uFt8YftlJo5HPQJ/view?usp=sharing" target="_blank">My CV</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmatter23/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amatter23)
+<hr />
+
+<p align=center>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs" />
+    <br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactquery,next,redux,tailwind" />
+    <br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,nginx,git,github,githubactions" />
+    <br/>
+  </a>
+</p>
